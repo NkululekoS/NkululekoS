@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi — I’m Nkululeko Shongwe 👋
 
-<!--
-**NkululekoS/NkululekoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Engineer & computing student based in Newcastle, South Africa. I help end users and teams with desktop support and device setups (remote & onsite), and I’m actively building my data engineering skills: ETL pipelines, data cleaning, and analytics with Python, SQL, and MongoDB.
 
-Here are some ideas to get you started:
+> **Currently:** IT Field Technician servicing the Standard Bank account via Altron Digital Business (initially subcontracted via IT Empowerment, now permanent staff).  
+> **Previously:** Data Analyst & EdTech implementation (Odin Education, Kaizen Unlimited).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning now:** Airflow, dbt, BigQuery, and dashboard automation.
+
+---
+
+## Tech & Tools
+Python (pandas) · SQL · MongoDB · Metabase · Tableau · Excel · Git · Linux · Airflow (learning)
+
+---
+
+## Portfolio Projects
+> _I am currently working on new public data engineering projects — check back soon!_
+
+---
+
+## Get in touch
+- 📫 Email: nkululeko.b.shongwe@gmail.com
+- 💼 LinkedIn: [nbshongwes](https://www.linkedin.com/in/nbshongwes/)
+
+---
+
+Thanks for visiting!
